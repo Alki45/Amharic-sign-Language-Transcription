@@ -1,0 +1,11 @@
+mediapipe
+opencv-python
+psutil
+jupyter
+notebook
+numpy
+pandas
+matplotlib
+scikit-learn
+tensorflow
+seaborn
